@@ -11,6 +11,6 @@ Las estrategias de particionado implementadas son:
 1. Validación Simple
 2. Validación Cruzada
 
-La clase datos procesa un dataset y lo convierte en un diccionario que utilizan las demás clases.
+La clase Datos procesa un dataset y lo convierte en un diccionario que utilizan las demás clases.
 
 Autores: Daniel Mateo y Laura Sánchez.
